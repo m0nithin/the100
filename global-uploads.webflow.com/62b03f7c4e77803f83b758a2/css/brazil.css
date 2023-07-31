@@ -10124,6 +10124,10 @@ a {
     -ms-grid-column-span: 1;
     grid-column-end: span 1;
   }
+
+  .mainLogo {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 479px) {
